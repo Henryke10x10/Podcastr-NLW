@@ -1,4 +1,4 @@
-# Podcastr:headphone: | Plataforma de podcasts
+# Podcastr:headset: | Plataforma de podcasts
 
 ![](https://github.com/Henryke10x10/Podcastr-NLW/blob/main/img/Home.png)
 
