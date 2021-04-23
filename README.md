@@ -1,5 +1,7 @@
 # Podcastr | Plataforma de podcasts
 
+![](https://github.com/Henryke10x10/Podcastr-NLW/blob/main/img/Home.png)
+
 ### Projeto demonstrado no evento Next Level Week da [Rocketseat](https://rocketseat.com.br/)
 
 ## Tecnologias utilizadas
